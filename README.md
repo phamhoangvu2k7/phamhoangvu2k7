@@ -10,8 +10,14 @@
 
 ---
 
-## 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,java,express,git,postman)](https://skillicons.dev)
+## 🧩 Languages & Frameworks:
+[![My Skills](https://skillicons.dev/icons?i=js,java,html,css,nodejs,express)](https://skillicons.dev)
+
+## 🗄️ Database:
+[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres)](https://skillicons.dev)
+
+## 🛠️ Tools:
+[![My Skills](https://skillicons.dev/icons?i=git,postman)](https://skillicons.dev)
 
 ---
 

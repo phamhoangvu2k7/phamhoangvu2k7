@@ -1,6 +1,12 @@
 # Hey there! 👋
 
-I am Pham Hoang Vu, a first-year student at Danang University of Science and Technology and a backend developer at Google Developer Student Clubs. I am highly passionate about exploring and learning new technologies, especially in backend development. My core strengths lie in Node.js and Spring Boot, where I focus on building scalable, maintainable, and high-performance backend systems.
+
+## 🙋‍♂️ About Me
+**I'm Phạm Hoàng Vũ**  
+🎓 First-year student at **Danang University of Science and Technology**  
+💻 Backend Developer at **Google Developer Student Clubs**  
+🔥 Passionate about **Backend Development**, exploring **Node.js** & **Spring Boot**  
+⚡ Focused on building **scalable**, **maintainable**, and **high-performance systems*
 
 ---
 

@@ -6,7 +6,7 @@
 🎓 First-year student at **Danang University of Science and Technology**  
 💻 Backend Developer at **Google Developer Student Clubs**  
 🔥 Passionate about **Backend Development**, exploring **Node.js** & **Spring Boot**  
-⚡ Focused on building **scalable**, **maintainable**, and **high-performance systems*
+⚡ Focused on building **scalable**, **maintainable**, and **high-performance systems**
 
 ---
 

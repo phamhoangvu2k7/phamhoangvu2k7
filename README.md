@@ -12,7 +12,11 @@
 </div>
 
 ## 🙋‍♂️ About Me
-**My name is Pham Hoang Vu**  
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Pham+Hoang+Vu;Backend+Developer" alt="Typing SVG" />
+</p>
+
 🎓 First-year student at **Danang University of Science and Technology**  
 💻 Backend Developer at **Google Developer Student Clubs**  
 🔥 Passionate about **Backend Development**, exploring **Node.js** & **Spring Boot**  

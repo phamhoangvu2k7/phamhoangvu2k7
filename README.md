@@ -31,7 +31,7 @@
 [![My Skills](https://skillicons.dev/icons?i=mongodb,postgres)](https://skillicons.dev)
 
 ## 🛠️ Tools:
-[![My Skills](https://skillicons.dev/icons?i=git,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,postman,npm)](https://skillicons.dev)
 
 ---
 

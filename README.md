@@ -28,7 +28,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,java,html,css,pug,nodejs,express)](https://skillicons.dev)
 
 ## 🗄️ Database:
-[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,mysql)](https://skillicons.dev)
 
 ## 🛠️ Tools:
 [![My Skills](https://skillicons.dev/icons?i=git,postman,npm)](https://skillicons.dev)

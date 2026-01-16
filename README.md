@@ -33,6 +33,10 @@
 ## 🛠️ Tools:
 [![My Skills](https://skillicons.dev/icons?i=git,postman,npm)](https://skillicons.dev)
 
+## 👤 Profiles:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vupham2k7)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/phamvuhoang486)
+
 ---
 
 ## 📫 Contact Me:

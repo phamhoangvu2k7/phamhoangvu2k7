@@ -30,12 +30,15 @@
 ## 🗄️ Database:
 [![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,mysql)](https://skillicons.dev)
 
+[![HackerRank SQL](https://img.shields.io/badge/HackerRank-SQL_5_Stars-f2c94c?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/phamvuhoang486)
+
+[![HackerRank Certificate](https://img.shields.io/badge/Certificate-SQL_(Basic)_Verified-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/f4388d76a15e)
+
 ## 🛠️ Tools:
 [![My Skills](https://skillicons.dev/icons?i=git,postman,npm)](https://skillicons.dev)
 
 ## 👤 Profiles:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vupham2k7)
-[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/phamvuhoang486)
 
 ---
 

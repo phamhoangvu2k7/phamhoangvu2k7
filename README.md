@@ -25,7 +25,7 @@
 ---
 
 ## 🧩 Languages & Frameworks:
-[![My Skills](https://skillicons.dev/icons?i=js,java,html,css,pug,nodejs,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript,js,java,html,css,pug,nodejs,express)](https://skillicons.dev)
 
 ## 🗄️ Database:
 [![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,mysql)](https://skillicons.dev)

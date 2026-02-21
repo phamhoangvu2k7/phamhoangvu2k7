@@ -17,18 +17,17 @@
 ---
 
 ## 🧩 Languages & Frameworks:
-[![My_Skills](https://skillicons.dev/icons?i=typescript,js,java,html,css,pug,nodejs,express)](https://skillicons.dev)
-<a href="https://nitro.unjs.io/" target="_blank"><img src="https://nitro.unjs.io/icon.svg" width="48" height="48" alt="Nitro" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=typescript,js,java,html,css,pug,nodejs,express" alt="My Skills" /></a>&nbsp;&nbsp;<a href="https://nitro.unjs.io/" target="_blank"><img src="https://nitro.unjs.io/icon.svg" width="48" height="48" alt="Nitro" /></a>
 
 [![HackerRank Certificate](https://img.shields.io/badge/Certificate-Java_(Basic)_Verified-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/72027117b34f)
 
 ## 🗄️ Database:
-[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,mysql)](https://skillicons.dev)
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" alt="My Skills" /></a>
 
 [![HackerRank Certificate](https://img.shields.io/badge/Certificate-SQL_(Basic)_Verified-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/f4388d76a15e)
 
 ## 🛠️ Tools:
-[![My Skills](https://skillicons.dev/icons?i=git,postman,npm)](https://skillicons.dev)
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,postman,npm" alt="My Skills" /></a>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="48" height="48" alt="Swagger" />
 
 ## 👤 Profiles:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vupham2k7)

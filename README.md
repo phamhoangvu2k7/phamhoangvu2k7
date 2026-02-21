@@ -17,7 +17,7 @@
 ---
 
 ## 🧩 Languages & Frameworks:
-[![My Skills](https://skillicons.dev/icons?i=js,java,html,css,pug,nodejs,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript,js,java,html,css,pug,nodejs,express)](https://skillicons.dev)
 
 [![HackerRank Certificate](https://img.shields.io/badge/Certificate-Java_(Basic)_Verified-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/72027117b34f)
 

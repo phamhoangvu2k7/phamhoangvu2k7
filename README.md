@@ -17,7 +17,8 @@
 ---
 
 ## 🧩 Languages & Frameworks:
-[![My Skills](https://skillicons.dev/icons?i=typescript,js,java,html,css,pug,nodejs,express)](https://skillicons.dev)
+[![My_Skills](https://skillicons.dev/icons?i=typescript,js,java,html,css,pug,nodejs,express)](https://skillicons.dev)
+<a href="https://nitro.unjs.io/" target="_blank"><img src="https://nitro.unjs.io/icon.svg" width="48" height="48" alt="Nitro" /></a>
 
 [![HackerRank Certificate](https://img.shields.io/badge/Certificate-Java_(Basic)_Verified-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/72027117b34f)
 

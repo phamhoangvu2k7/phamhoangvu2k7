@@ -23,4 +23,4 @@
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" alt="My Skills" /></a>
 
 ## 🛠️ Tools:
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,postman,npm" alt="My Skills" /></a>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="48" height="48" alt="Swagger" />
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,postman,docker" alt="My Skills" />

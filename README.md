@@ -24,3 +24,6 @@
 
 ## 🛠️ Tools:
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,postman,docker" alt="My Skills" />
+
+## 📊 GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phamhoangvu2k7&layout=compact&theme=radical&hide_border=true)

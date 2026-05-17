@@ -17,7 +17,7 @@
 ---
 
 ## 🧩 Tech:
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=typescript,js,nodejs,nuxt,express,nextjs" alt="My Skills" /></a>&nbsp;&nbsp;
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=typescript,js,nodejs,express" alt="My Skills" /></a>&nbsp;&nbsp;
 
 ## 🗄️ Database:
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" alt="My Skills" /></a>

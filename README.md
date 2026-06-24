@@ -13,14 +13,23 @@
 />
 </div>
 
+---
+
+### 💻 Backend & Languages
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express" alt="Backend Technologies" />
+</a>
 
 ---
 
-## 🧩 Tech:
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=typescript,js,nodejs,express" alt="My Skills" /></a>&nbsp;&nbsp;
+### 🗄️ Databases
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" alt="Databases" />
+</a>
 
-## 🗄️ Database:
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" alt="My Skills" /></a>
+---
 
-## 🛠️ Tools:
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,postman,docker" alt="My Skills" />
+### 🔧 DevOps & Tools
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=docker,ubuntu,git,postman" alt="DevOps and Tools" />
+</a>

@@ -17,7 +17,7 @@
 
 ### 💻 Backend & Languages
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express" alt="Backend Technologies" />
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,nuxt" alt="Backend Technologies" />
 </a>
 
 ---
@@ -31,5 +31,5 @@
 
 ### 🔧 DevOps & Tools
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=docker,ubuntu,git,postman" alt="DevOps and Tools" />
+  <img src="https://skillicons.dev/icons?i=docker,ubuntu,git,postman,cloudflare" alt="DevOps and Tools" />
 </a>

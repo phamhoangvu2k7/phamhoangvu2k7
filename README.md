@@ -17,7 +17,7 @@
 
 ### 💻 Backend & Languages
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,nuxt" alt="Backend Technologies" />
+  <img src="https://skillicons.dev/icons?i=ts,js,java,nodejs,express,nuxt" alt="Backend Technologies" />
 </a>
 
 ---

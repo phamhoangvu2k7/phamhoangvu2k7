@@ -1,5 +1,3 @@
-# WELCOME TO MY PAGE 👋👋👋
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Pham+Hoang+Vu;Backend+Developer" alt="Typing SVG" />
 </p>

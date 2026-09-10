@@ -13,24 +13,58 @@
 
 ---
 
-### 🛠️ Languages & Backend
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=ts,js,java,nodejs,express,nuxt" alt="Languages & Backend" />
+## 🛠 Tech Stack
+
+<table width="100%">
+<tr>
+<td width="180" valign="top"><b>Languages</b></td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=ts,java" />
+
+</td>
+</tr>
+<tr>
+<td valign="top"><b>Frameworks &<br/>Libraries</b></td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=express,nuxtjs" />
+&nbsp;&nbsp;
+
+</td>
+</tr>
+<tr>
+<td valign="top"><b>ORM &<br/>Databases</b></td>
+<td valign="middle">
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb" align="center" />
+&nbsp;
+<a href="https://orm.drizzle.team" target="_blank">
+  <img src="https://img.shields.io/badge/-%20-252526?style=square&logo=drizzle&logoColor=C5F74F" height="48" width="48" align="center" alt="Drizzle ORM" />
 </a>
 
-### 🗄️ Databases & Storage
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" alt="Databases & Storage" />
-</a>
+</td>
+</tr>
+<tr>
+<td valign="top"><b>Cloud &<br/>DevOps</b></td>
+<td>
 
-### 🚀 DevOps & CI/CD
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=docker,githubactions,cloudflare,ubuntu" alt="DevOps & CI/CD" />
-</a>
+<img src="https://skillicons.dev/icons?i=docker,githubactions,cloudflare" />
+&nbsp;&nbsp;
 
-### 🔧 Tools & Environment
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,postman,bash,pnpm,npm" alt="Tools & Environment" />
-</a>
+</td>
+</tr>
+<tr>
+<td valign="top"><b>Tools</b></td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,pnpm,npm" />
+&nbsp;&nbsp;
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ---

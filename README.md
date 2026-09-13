@@ -25,7 +25,7 @@
 </td>
 </tr>
 <tr>
-<td valign="top"><b>Frameworks &<br/>Libraries</b></td>
+<td valign="top"><b>Frameworks</td>
 <td>
 
 <img src="https://skillicons.dev/icons?i=express,nuxtjs,spring" />
@@ -34,7 +34,7 @@
 </td>
 </tr>
 <tr>
-<td valign="top"><b>ORM &<br/>Databases</b></td>
+<td valign="top"><b>Databases &<br/>ORM</b></td>
 <td valign="middle">
 
 <img src="https://skillicons.dev/icons?i=postgres,mongodb" align="center" />
@@ -46,7 +46,7 @@
 </td>
 </tr>
 <tr>
-<td valign="top"><b>Cloud &<br/>DevOps</b></td>
+<td valign="top"><b>DevOps &<br/>Cloud</b></td>
 <td>
 
 <img src="https://skillicons.dev/icons?i=docker,githubactions,cloudflare" />
@@ -55,7 +55,7 @@
 </td>
 </tr>
 <tr>
-<td valign="top"><b>Tools</b></td>
+<td valign="top"><b>Development Tools</b></td>
 <td>
 
 <img src="https://skillicons.dev/icons?i=git,github,postman,pnpm,npm,maven" />

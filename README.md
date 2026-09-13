@@ -28,7 +28,7 @@
 <td valign="top"><b>Frameworks &<br/>Libraries</b></td>
 <td>
 
-<img src="https://skillicons.dev/icons?i=express,nuxtjs" />
+<img src="https://skillicons.dev/icons?i=express,nuxtjs,spring" />
 &nbsp;&nbsp;
 
 </td>
@@ -58,7 +58,7 @@
 <td valign="top"><b>Tools</b></td>
 <td>
 
-<img src="https://skillicons.dev/icons?i=git,github,postman,pnpm,npm" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,pnpm,npm,maven" />
 &nbsp;&nbsp;
 
 </td>

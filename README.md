@@ -49,7 +49,7 @@
 <td valign="top"><b>DevOps &<br/>Cloud</b></td>
 <td>
 
-<img src="https://skillicons.dev/icons?i=docker,githubactions,cloudflare" />
+<img src="https://skillicons.dev/icons?i=docker,githubactions,cloudflare,aws" />
 &nbsp;&nbsp;
 
 </td>

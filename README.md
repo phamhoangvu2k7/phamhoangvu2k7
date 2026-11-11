@@ -24,15 +24,7 @@
 
 </td>
 </tr>
-<tr>
-<td valign="top"><b>Frameworks</td>
-<td>
 
-<img src="https://skillicons.dev/icons?i=express,nuxtjs,spring" />
-&nbsp;&nbsp;
-
-</td>
-</tr>
 <tr>
 <td valign="top"><b>Databases &<br/>ORM</b></td>
 <td valign="middle">
@@ -45,6 +37,17 @@
 
 </td>
 </tr>
+
+<tr>
+<td valign="top"><b>Frameworks</td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=express,nuxtjs,nestjs,spring" />
+&nbsp;&nbsp;
+
+</td>
+</tr>
+
 <tr>
 <td valign="top"><b>DevOps &<br/>Cloud</b></td>
 <td>

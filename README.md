@@ -42,7 +42,17 @@
 <td valign="top"><b>Frameworks</td>
 <td>
 
-<img src="https://skillicons.dev/icons?i=express,nuxtjs,nestjs,spring" />
+<img src="https://skillicons.dev/icons?i=express,nuxtjs,nestjs" />
+&nbsp;&nbsp;
+
+</td>
+</tr>
+
+<tr>
+<td valign="top"><b>Development Tools</b></td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=git,github,postman" />
 &nbsp;&nbsp;
 
 </td>
@@ -53,15 +63,6 @@
 <td>
 
 <img src="https://skillicons.dev/icons?i=docker,githubactions,cloudflare,aws" />
-&nbsp;&nbsp;
-
-</td>
-</tr>
-<tr>
-<td valign="top"><b>Development Tools</b></td>
-<td>
-
-<img src="https://skillicons.dev/icons?i=git,github,postman,pnpm,npm,maven" />
 &nbsp;&nbsp;
 
 </td>
